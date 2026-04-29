@@ -1,0 +1,19 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+target/jprotobuf-1.10.jar
+target
+.svn
+.project
+.classpath
+/bin/
+
+.settings/org.eclipse.core.resources.prefs
+/v3-b/
+/jprotobuf-precompile-pluginv3/
+/.idea/
+/.settings/
+/benchmark/
+/.externalToolBuilders/
