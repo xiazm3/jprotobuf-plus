@@ -6,7 +6,9 @@ A useful utility library for java programmer to use google protobuf library.
 </p>
 
 
+基于jprotobuf-2.4.23版本进行了相关升级，升级了依赖库版本。
 
+原版jprotobuf-2.4.23： [jprotobuf](https://github.com/jhunters/jprotobuf)
 
 
 ## What is jprotobuf
